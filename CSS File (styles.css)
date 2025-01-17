@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    text-align: center;
+    color: #555;
+}
+
+/* Hero Section */
+.hero {
+    background: #4caf50;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.hero .cta {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: white;
+    color: #4caf50;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* About Section */
+.about {
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+/* Services Section */
+.services {
+    padding: 20px;
+}
+
+.service-item {
+    text-align: center;
+    margin: 10px 0;
+}
+
+/* Testimonials Section */
+.testimonials {
+    padding: 20px;
+    background: #e4e4e4;
+    font-style: italic;
+}
+
+/* Contact Section */
+.contact {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
