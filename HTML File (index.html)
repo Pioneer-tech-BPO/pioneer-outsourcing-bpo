@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pioneer Outsourcing BPO</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <header class="hero">
+        <h1>Pioneer Outsourcing BPO</h1>
+        <p>Efficient Outsourcing, Exceptional Results</p>
+        <a href="#services" class="cta">Explore Services</a>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>Pioneer Outsourcing BPO specializes in optimizing operations, improving efficiency, and reducing costs for businesses worldwide. We provide tailored solutions across various industries.</p>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <h2>Our Services</h2>
+        <div class="service-item">
+            <h3>Customer Support</h3>
+            <p>24/7 professional support for your customers.</p>
+        </div>
+        <div class="service-item">
+            <h3>Data Entry</h3>
+            <p>Accurate and efficient data management services.</p>
+        </div>
+        <div class="service-item">
+            <h3>Back-office Operations</h3>
+            <p>Streamlining your administrative processes.</p>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials">
+        <h2>What Our Clients Say</h2>
+        <blockquote>"Pioneer Outsourcing BPO transformed our business operations with their professional services." - A Happy Client</blockquote>
+    </section>
+
+    <!-- Contact Section -->
+    <footer class="contact">
+        <h2>Contact Us</h2>
+        <p>Email: contact@pioneerbpo.com</p>
+        <p>Phone: +123 456 7890</p>
+    </footer>
+</body>
+</html>
